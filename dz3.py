@@ -80,6 +80,6 @@ def data_frame():
 
 def run_dz_3():
     print("Задача 3 Pandas")
-    # print("Средний total_bill для курящих мужчин по пятницам:", tips())
-    # iris()
+    print("Средний total_bill для курящих мужчин по пятницам:", tips())
+    iris()
     print(data_frame())
